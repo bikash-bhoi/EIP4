@@ -16,6 +16,8 @@ print(score)
 
 
 
+
+
 ### 1.Convolution
 
 In Computer Vision, Convolution is used to extract important feature of a dataset by sliding a kernel over the input set and the dot product of the kernel and overlapped region is stored into the output.
