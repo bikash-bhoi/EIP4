@@ -117,6 +117,6 @@ print(score)
 [0.01724281985911366, 0.9945]
 ```
 
-###Strategy to tune the model
+### Strategy to tune the model
 1. Reduce the number of Kernels to reduce number of parameters
 2. Tune the Initial Learning late and hte scheduler value 
