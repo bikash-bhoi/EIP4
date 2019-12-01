@@ -304,6 +304,8 @@ Epoch 00050: LearningRateScheduler setting learning rate to 5.87143e-05.
 Model took 1359.75 seconds to train
 
 Accuracy on test data is: 84.47
+
 ```
+![Loss and Accuracy](https://github.com/bikash-bhoi/EIP4/blob/master/Session3%20Assignment/acc%20and%20loss.png)
 
 
