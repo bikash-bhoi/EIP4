@@ -8,6 +8,7 @@
 Data Link : https://drive.google.com/file/d/1Xn5vd-J1pPdmUiO3M6h9Th52HV3NXsb6/view?usp=sharing
 
 Best accuracy achieved by Resnet50v2
+
 File : PersonAttrubutes_Resnet50V2_1.ipynb
 
 ### Best accuracy
