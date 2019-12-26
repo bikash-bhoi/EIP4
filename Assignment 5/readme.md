@@ -10,6 +10,16 @@ Data Link : https://drive.google.com/file/d/1Xn5vd-J1pPdmUiO3M6h9Th52HV3NXsb6/vi
 Best accuracy achieved by Resnet50v2
 File : PersonAttrubutes_Resnet50V2_1.ipynb
 
+`Best accuracy`<br>
+**val_gender_output_acc: 0.9133  <br>
+val_image_quality_output_acc: 0.5856 <br>
+val_age_output_acc: 0.4591 <br>
+val_weight_output_acc: 0.6507 <br>
+val_bag_output_acc: 0.6886 <br>
+val_footwear_output_acc: 0.7094 <br> 
+val_pose_output_acc: 0.8668 <br>
+val_emotion_output_acc: 0.7135**
+
 `Best trained epoch:`
 
 `Epoch 191/200
